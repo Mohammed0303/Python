@@ -6,4 +6,4 @@ def fact(n):
     return f
 num = int(input("Enter the number: "))
 result = fact(num)
-print("The factorial of {num} is {result}")
+print(f"The factorial of {num} is {result}")
